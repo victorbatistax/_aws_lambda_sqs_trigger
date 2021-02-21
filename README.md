@@ -1,0 +1,1 @@
+# _aws_lambda_sqs_trigger
